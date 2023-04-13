@@ -141,5 +141,3 @@ export function getPurchasetId(id: string): Purchase[] {
         return product.userId === id;
     })
 }
-
-//ALTERAÇÃO TESTE
